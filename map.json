@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"tiled"
+         "target":""
         }
     },
  "height":33,
@@ -77,11 +77,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"floortileset.tsx"
+         "source":"floortileset.png"
         }, 
         {
          "firstgid":65,
-         "source":"tilesets_deviant_milkian_1.tsx"
+         "source":"tilesets_deviant_milkian_1.png"
         }],
  "tilewidth":32,
  "type":"map",
