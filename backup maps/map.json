@@ -89,13 +89,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"floortileset.tsx"
         }, 
         {
          "firstgid":65,
