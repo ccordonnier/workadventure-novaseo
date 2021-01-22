@@ -222,6 +222,15 @@
                         }]
                 }, 
                 {
+                 "id":62,
+                 "properties":[
+                        {
+                         "name":"colides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":72,
                  "properties":[
                         {
@@ -254,7 +263,7 @@
                         {
                          "name":"colides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -263,7 +272,7 @@
                         {
                          "name":"colides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -272,7 +281,7 @@
                         {
                          "name":"colides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -281,7 +290,7 @@
                         {
                          "name":"colides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -393,6 +402,15 @@
                         }]
                 }, 
                 {
+                 "id":200,
+                 "properties":[
+                        {
+                         "name":"colides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":212,
                  "properties":[
                         {
@@ -403,6 +421,15 @@
                 }, 
                 {
                  "id":214,
+                 "properties":[
+                        {
+                         "name":"colides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":216,
                  "properties":[
                         {
                          "name":"colides",
