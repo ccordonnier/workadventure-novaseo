@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"R\u00e9union Rodolphe"
+                 "value":"Rodolphe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"R\u00e9union JC"
+                 "value":"JC"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -346,7 +346,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
