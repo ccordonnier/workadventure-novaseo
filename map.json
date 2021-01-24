@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"D\u00e9tente"
+                 "value":"Detente"
                 }],
          "type":"tilelayer",
          "visible":true,
